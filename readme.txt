@@ -13,9 +13,7 @@ to use:
 
 1. place the movie clips in Charting/charting.fla into your .fla
 
-2. 
-
-3. follow the structure of Charting/Charting.as (an example file for using the TimeSeriesGraph class) for adding a graph to your application
+2. follow the structure of Charting/Charting.as (an example file for using the TimeSeriesGraph class) for adding a graph to your application
 
 
 *****
