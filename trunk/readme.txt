@@ -18,7 +18,7 @@ to use:
 
 *****
 
-Run examples/charting.swf to see an example of the TimeSeriesGraph class in action
+Run examples/charting.fla to see an example of the TimeSeriesGraph class in action
 
 *****
 
